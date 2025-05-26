@@ -1,0 +1,10 @@
+Company,Fiscal Year End Date,Total Revenue,Net Income,Total Assets,Total Liabilities,Operating Cash Flow
+Apple,"September 30, 2023",383.3,97,352.6,290.4,110.5
+Apple,"September 24, 2022",394.3,99.8,352.8,302.1,122.2
+Apple,"September 25, 2021",365.8,94.7,351,287.9,104
+Tesla,"December 31, 2023",96.77,15,106.62,36.4,13.26
+Tesla,"December 31, 2022",81.46,12.56,82.34,34.32,14.72
+Tesla,"December 31, 2021",53.82,5.52,62.13,30.3,11.5
+Microsoft,"June 30, 2024",245,86,411,198,102
+Microsoft,"June 30, 2023",211.9,72.7,411.9,198.3,87.6
+Microsoft,"June 30, 2022",198.3,72.7,364.8,198.3,89
