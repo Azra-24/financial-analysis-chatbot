@@ -1,6 +1,6 @@
 # BCGX GenAI Job Simulation Project
 
-This repository contains my submission for the **BCGX GenAI Job Simulation** hosted on [Forage](https://www.theforage.com/simulations/bcg/gen-ai-anlo).
+This repository contains my submission for the **BCGX GenAI Job Simulation** hosted on **Forage**.
 
 ---
 
